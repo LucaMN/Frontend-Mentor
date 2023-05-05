@@ -1,0 +1,42 @@
+
+body, html {
+    height: 100%;
+}
+  
+body {
+    margin: 0;
+    padding: 0;
+}
+  
+.contenedor {
+    background: #EEE;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100%;
+}
+  
+.elemento {
+    background: white;
+    height: 400px;
+    width: 270px;
+    border-radius: 5%;
+}
+.imagen-qr{
+    height: 200px;
+    width: 230px;
+    margin: 20px;
+    border-radius: 5%;
+}
+.lo{
+    font-size: 17px;
+    padding-left: 40px;
+    font-weight: bold;
+}
+.text{
+    font-size: 13px;
+    padding-left: 40px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
